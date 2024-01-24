@@ -10,7 +10,7 @@ echo " Enter the value of b "
 read b
 
 
-echo " This is value of $a and this is value of $b"
+echo " This is value of a  $a and this is value of b  $b"
 
 echo " welcome to git bash"
 
